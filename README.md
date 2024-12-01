@@ -18,8 +18,6 @@ Check the [Materials/Outputs](https://github.com/rithwikraman/DS4002_CS3/tree/ma
 
 ## Reference Material
 
-The Rise and Impact of Image Recognition Technology
-[https://www.basic.ai/blog-post/image-recognition](https://www.basic.ai/blog-post/image-recognition)
+The Rise and Impact of Image Recognition Technology: [https://www.basic.ai/blog-post/image-recognition](https://www.basic.ai/blog-post/image-recognition)
 
-NIST Launches Studies into Masks’ Effect on Face Recognition Software
-[https://www.nist.gov/news-events/news/2020/07/nist-launches-studies-masks-effect-face-recognition-software](https://www.nist.gov/news-events/news/2020/07/nist-launches-studies-masks-effect-face-recognition-software)
+NIST Launches Studies into Masks’ Effect on Face Recognition Software: [https://www.nist.gov/news-events/news/2020/07/nist-launches-studies-masks-effect-face-recognition-software](https://www.nist.gov/news-events/news/2020/07/nist-launches-studies-masks-effect-face-recognition-software)
