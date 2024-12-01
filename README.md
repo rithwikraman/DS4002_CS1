@@ -12,6 +12,6 @@ Check the Materials/Data directory for information on how to retrieve the image 
 
 The Materials/Scripts directory contains the Python Jupyter notebook used during the project - use it as reference when reproducing the results. 
 
-## Outputs
+### Outputs
 
 Check the Materials/Outputs directory for all plots generated during the project - use it as reference when reproducing the results. 
