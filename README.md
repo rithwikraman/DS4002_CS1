@@ -6,15 +6,15 @@ Read the provideed hook and rubric documents to understand the case study contex
 
 ### Data
 
-Check the Materials/Data directory for information on how to retrieve the image dataset from HuggingFace. Since the dataset contains almost is 12,000 rows of image data, it was too large to be uploaded into GitHub - check the instructions for accessing the dataset via the link provided. 
+Check the [Materials/Data](https://github.com/rithwikraman/DS4002_CS3/tree/main/Materials/Data) directory for information on how to retrieve the image dataset from HuggingFace. Since the dataset contains almost is 12,000 rows of image data, it was too large to be uploaded into GitHub - check the instructions for accessing the dataset via the link provided. 
 
 ### Scripts
 
-The Materials/Scripts directory contains the Python Jupyter notebook used during the project - use it as reference when reproducing the results. 
+The [Materials/Code](https://github.com/rithwikraman/DS4002_CS3/tree/main/Materials/Code) directory contains the Python Jupyter notebook used during the project - use it as reference when reproducing the results. 
 
 ### Outputs
 
-Check the Materials/Outputs directory for all plots generated during the project - use it as reference when reproducing the results. 
+Check the [Materials/Outputs](https://github.com/rithwikraman/DS4002_CS3/tree/main/Materials/Output) directory for all plots generated during the project - use it as reference when reproducing the results. 
 
 ### Reference Material
 
