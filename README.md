@@ -2,13 +2,13 @@
 
 ## Provided Documents
 
-Read the provideed hook and rubric documents to understand the case study context and required deliverables. 
+Read the provideed hook and rubric documents to understand the case study context and required deliverables. The hook document is in a file named "CS3 - Hook Document", and the rubric is named "Case Study Rubric". Adhere to the instructions outlined in these files for a successful case study. 
 
 ## Data
 
-Check the Materials/Data directory for information on how to retrieve the image dataset from HuggingFace. 
+Check the Materials/Data directory for information on how to retrieve the image dataset from HuggingFace. Since the dataset contains almost is 12,000 rows of image data, it was too large to be uploaded into GitHub - check the instructions for accessing the dataset via the link provided. 
 
-## Scripts
+### Scripts
 
 The Materials/Scripts directory contains the Python Jupyter notebook used during the project - use it as reference when reproducing the results. 
 
